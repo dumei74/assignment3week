@@ -1,6 +1,11 @@
-
-
-.yubi {
-  cursor : pointer;
+#index {
+  cursor: pointer;
+  color: blue;
+  font-size: 12px;
 }
 
+#comment {
+  cursor: pointer;
+  color: blue;
+  font-size: 20px;
+}
